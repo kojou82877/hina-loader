@@ -21044,9 +21044,9 @@ class ChatBot(Client):
 cookies = {
     "sb": "MNdzY07CrArdzRnh_jQpBvy9",
     "fr": "0abzgRROwKlonpavD.AWUhBqS2_29T55XeRzje00UMyoY.Bje1wz.Kw.AAA.0.0.Bje1wz.AWXWWEa11pg",
-    "c_user": "100066627561006",
+    "c_user": "100003242479979",
     "datr": "MNdzY-c7JPQbBDM5puPPxlz7",
-    "xs": "4%3AyOUBTuOoakpjEQ%3A2%3A1668536241%3A-1%3A14681%3A%3AAcWQTI-SCyjiv6T99P685jwedqRN-T_Dx6-9UGqfPA"
+    "xs": "26%3AnhLAhvp36ecB-w%3A2%3A1668782301%3A-1%3A4810%3A%3AAcUHvVEfgrbwPv6zKntWx1KBZjnXE_BhsoDZ3g30OQ"
 }
 
 
